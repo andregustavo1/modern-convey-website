@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Users, Megaphone, FileText, Radio, HandHelp } from 'lucide-react';
+import { Users, Megaphone, FileText, Radio, HandMetal } from 'lucide-react';
 
 const AreasSection = () => {
   return (
@@ -68,7 +68,7 @@ const AreasSection = () => {
           <div className="card flex flex-col md:flex-row items-center opacity-0 animate-slide-up" style={{ animationDelay: '0.6s', animationFillMode: 'forwards' }}>
             <div className="w-full md:w-1/4 flex justify-center mb-6 md:mb-0">
               <div className="w-20 h-20 rounded-full bg-marioBlue/10 flex items-center justify-center">
-                <HandHelp className="w-10 h-10 text-marioBlue" />
+                <HandMetal className="w-10 h-10 text-marioBlue" />
               </div>
             </div>
             <div className="w-full md:w-3/4 text-center md:text-left">
