@@ -34,7 +34,7 @@ const HeroSection = () => {
         <div className="w-full md:w-1/2 flex justify-center opacity-0 animate-slide-up" style={{ animationDelay: '0.4s', animationFillMode: 'forwards' }}>
           <div className="rounded-full overflow-hidden border-4 border-marioBlue shadow-2xl w-64 h-64 md:w-80 md:h-80">
             <img 
-              src="https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1287&auto=format&fit=crop" 
+              src="/lovable-uploads/0252ce09-7a33-42e1-9a5e-41dddab3c1b1.png" 
               alt="Mario Cleber" 
               className="w-full h-full object-cover"
             />
